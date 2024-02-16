@@ -1,5 +1,6 @@
 # Saving-Superstore-Project-READ.ME
 This project aims to provide actionable insights to improve the superstore's profitability and ensure its sustainability in the market.
+https://tinyurl.com/Saving-Superstore-Project
 ## Table of Contents
 ### Introduction
 #### Part 1: Profits & Losses
