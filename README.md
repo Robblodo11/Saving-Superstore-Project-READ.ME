@@ -31,13 +31,15 @@ The Saving SuperStore project aims to review the operations of the superstore an
   * Analysis conducted to determine which product subcategories the store should focus on and which should be discontinued
  ![Screen Shot 2024-02-17 at 3 25 31 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/77228455-cd56-404a-8b73-e94dccaac13f)
  ![Screen Shot 2024-02-17 at 3 27 12 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/a78ea645-a5e9-4fc7-bcbe-5fc194866ec2)
+
 #### Part 2: Advertising
 * Optimal Advertising Combinations
   * Identified the 3 best combinations of states and month of the year to advertise in
  <img width="651" alt="Screen Shot 2024-02-23 at 2 18 15 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/957fd098-5a9f-4183-92e2-3cf486feb20a">
 * Return on Ad Spend Analysis
   * Analysis conducted to determine average profit per unit sold vs return on ad spend ratio to justify advertising expenditure
-  ![Screen Shot 2024-02-17 at 3 27 52 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/b6d3bd45-0923-4d4f-9295-e8be580a9bfc)  
+  ![Screen Shot 2024-02-17 at 3 27 52 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/b6d3bd45-0923-4d4f-9295-e8be580a9bfc)
+
 #### Part 3: Returned Items
 * Products with High Return Rates
   * Created visualization to identify products with the highest return rates
@@ -47,6 +49,7 @@ The Saving SuperStore project aims to review the operations of the superstore an
 * Profit vs Return Rate Visualization
   * Created visualization of the average profit against the average return rate on a chosen dimension to determine the impact on business decisions
   ![Screen Shot 2024-02-17 at 3 31 56 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/7619fd65-24ac-45d3-98f6-6c04016561a8)
+
 #### Conclusion
 * Among the dimensions, I determined that Shipping mode alone is one of the biggest centers of profit, with standard shipping class having an overall profit of $164,089. When looking at shipping mode and product category, we see a profit of $83,0129 in technology products shipped with the standard shipping class.
 * The biggest profit Losses can be seen when looking at Region & Sub-category, and Shipping mode & Region. Region & sub-category we can see the biggest profit loss of $11,025 with tables. When looking at the Shipping Mode & Region, we can see the biggest profit loss of $1,762 with same day shipping in the southern region.
