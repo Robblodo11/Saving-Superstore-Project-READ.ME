@@ -34,11 +34,9 @@ The Saving SuperStore project aims to review the operations of the superstore an
 
 #### Part 2: Advertising
 * Optimal Advertising Combinations
-  * Identified the 3 best combinations of states and month of the year to advertise in
- <img width="651" alt="Screen Shot 2024-02-23 at 2 18 15 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/957fd098-5a9f-4183-92e2-3cf486feb20a">
- 
+  * Identified the 3 best combinations of states and month of the year to advertise in by creating a table that looks at the average profit for each state, by month of the year
 * Return on Ad Spend Analysis
-  * Analysis conducted to determine average profit per unit sold vs return on ad spend ratio to justify advertising expenditure
+  * Analysis conducted to determine average profit per unit sold vs return on ad spend ratio to justify advertising expenditure. Ad spend ratio is roughly 1/5th of profits. 
 
   ![Screen Shot 2024-02-17 at 3 27 52 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/b6d3bd45-0923-4d4f-9295-e8be580a9bfc)
 
