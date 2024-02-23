@@ -45,9 +45,10 @@ The Saving SuperStore project aims to review the operations of the superstore an
   * Created visualization to identify products with the highest return rates
 * Customers with High Return Rates
   * Created visualization to identify customers with the highest return rates
-   ![Screen Shot 2024-02-17 at 3 31 19 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/53dfb3d5-0aba-442c-b3ce-0b780773e4e8)
+  <img width="1057" alt="Screen Shot 2024-02-23 at 2 25 00 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/c58df16e-7614-46c9-8706-6c447bf05aa4">
 * Profit vs Return Rate Visualization
   * Created visualization of the average profit against the average return rate on a chosen dimension to determine the impact on business decisions
+  
   ![Screen Shot 2024-02-17 at 3 31 56 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/7619fd65-24ac-45d3-98f6-6c04016561a8)
 
 #### Conclusion
