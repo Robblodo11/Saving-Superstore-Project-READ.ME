@@ -38,7 +38,7 @@ The Saving SuperStore project aims to review the operations of the superstore an
 * Return on Ad Spend Analysis
   * Analysis conducted to determine average profit per unit sold vs return on ad spend ratio to justify advertising expenditure. Ad spend ratio is roughly 1/5th of profits. 
 
- <img width="651" alt="Screen Shot 2024-02-23 at 2 18 15 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/484b1457-3f1e-4df3-b4d2-20d0f6847112">
+<img width="647" alt="Screen Shot 2024-02-23 at 2 34 47 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/a4a292f9-7030-42d9-978f-5a333dd7f4e1">
 
 #### Part 3: Returned Items
 * Products with High Return Rates
