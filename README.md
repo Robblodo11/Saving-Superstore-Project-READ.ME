@@ -23,7 +23,7 @@ https://www.loom.com/share/f4de87ef356d412b94467bdcc90accae?sid=8434a3d0-6ca8-43
 * Profit vs Return Rate Visualization
 #### Conclusion
 
-
+----------------------------------
 ### Introduction
 The Saving SuperStore project aims to review the operations of the superstore and increase its profitability to avoid bankruptcy. This document outlines the analysis and conclusions based on different aspects of the superstore's operations.
 
