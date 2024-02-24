@@ -1,5 +1,8 @@
 # Saving-Superstore-Project-READ.ME
 This project aims to provide actionable insights to improve the superstore's profitability and ensure its sustainability in the market.
+### Deployment Instructions
+Deployment for this Tableau project requires Tableau Server or Tableau Online for hosting. System requirements include a supported web browser for accessing the Tableau dashboard, such as Google Chrome or Mozilla Firefox, and stable internet connectivity. Additionally, the project's compatibility relies on the version of Tableau Desktop used to create it, with the latest recommended for optimal performance.
+
 ### Link to Project 
 https://tinyurl.com/Saving-Superstore-Project
 ### Demo Link
